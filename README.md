@@ -77,7 +77,7 @@
 
 <h3 align="left">Mes projets :</h3>
 
-<p align="left">Application .NET qiu permet de de gerer une caserne <br><br>Simulation de réseaux LAN en C (couche 2)<br><br>Projet DONJONS & DRAGONS Java où l'on simule combat et exploration <br><br>Projet visant simuler le jeu du YAMS en C#</p>
+<p align="left">Application .NET qui permet de de gérer une caserne <br><br>Simulation de réseaux LAN en C (couche 2)<br><br>Projet DONJONS & DRAGONS Java où l'on simule combat et exploration <br><br>Projet visant simuler le jeu du YAMS en C#</p>
 
 ###
 <h3 align="left">🌍 Lien(s) utile(s) :</h3>
